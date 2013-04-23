@@ -1,0 +1,14 @@
+# Store Vagrant packaged .box files
+boxes/*
+
+# Store .iso files
+iso/*
+
+# Store isolated ruby gems
+#
+#   bundle install --path gems/
+#
+gems/*
+.bundle/*
+
+!.gitkeep
