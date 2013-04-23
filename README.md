@@ -27,9 +27,12 @@ bundle exec veewee validate 'quantal64-vanilla'
 
 # Package VM as .box file
 vagrant package --base 'quantal64-vanilla' --output 'boxes/quantal64-vanilla.box'
- 
 ```
 
+If packaging VM fails with error 
+`undefined method 'ui' for true:TrueClass`, try to apply 
+[this patch](https://github.com/mitchellh/vagrant/commit/45267c85fe71d64470e8d12a216a63dcef67e2e4) on
+Vagrant.
 
 ## License and authors
 
