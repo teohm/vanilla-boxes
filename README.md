@@ -5,6 +5,13 @@ A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Va
 
 *\*vanilla - no ruby, gem, chef, puppet.*
 
+## Downloads
+
+ * [Ubuntu Precise 32 Vanilla (12.04)](https://dl.dropboxusercontent.com/u/165709740/boxes/precise32-vanilla.box)
+ * [Ubuntu Precise 64 Vanilla (12.04)](https://dl.dropboxusercontent.com/u/165709740/boxes/precise64-vanilla.box)
+ * [Ubuntu Quantal 32 Vanilla (12.10)](https://dl.dropboxusercontent.com/u/165709740/boxes/quantal32-vanilla.box)
+ * [Ubuntu Quantal 64 Vanilla (12.10)](https://dl.dropboxusercontent.com/u/165709740/boxes/quantal64-vanilla.box)
+
 ## Before started
 
  1. Install [VirtualBox](https://www.virtualbox.org/)
