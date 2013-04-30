@@ -27,7 +27,7 @@ cd vanilla-boxes
 bundle install --path gems/
 
 # Build a VirtualBox VM
-bundle exec veewee build 'quantal64-vanilla'
+bundle exec veewee vbox build 'quantal64-vanilla'
 
 # Validate VM
 bundle exec veewee validate 'quantal64-vanilla'
