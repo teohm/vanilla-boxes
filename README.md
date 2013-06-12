@@ -29,8 +29,8 @@ bundle install --path gems/
 # Build a VirtualBox VM
 bundle exec veewee vbox build 'quantal64-vanilla'
 
-# Validate VM
-bundle exec veewee validate 'quantal64-vanilla'
+# Validate VM - you should see failing tests for Ruby, Rubygems, Chef and Puppet
+bundle exec veewee vbox validate 'quantal64-vanilla'
 
 # Package VM as .box file
 vagrant package --base 'quantal64-vanilla' --output 'boxes/quantal64-vanilla.box'
