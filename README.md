@@ -11,8 +11,8 @@ A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Va
  * [Ubuntu Precise 64 Vanilla (12.04.2)](https://dl.dropboxusercontent.com/u/165709740/boxes/precise64-vanilla.box)
  * [Ubuntu Quantal 32 Vanilla (12.10)](https://dl.dropboxusercontent.com/u/165709740/boxes/quantal32-vanilla.box)
  * [Ubuntu Quantal 64 Vanilla (12.10)](https://dl.dropboxusercontent.com/u/165709740/boxes/quantal64-vanilla.box)
- * [Ubuntu Raring 32 Vanilla (13.04)](https://copy.com/7fRE4UhVHmCS)
- * [Ubuntu Raring 64 Vanilla (13.04)](https://copy.com/OljurIPEsjaX)
+ * [Ubuntu Raring 32 Vanilla (13.04)](http://goo.gl/y79mW)
+ * [Ubuntu Raring 64 Vanilla (13.04)](http://goo.gl/ceHWg)
 
 ## Before started
 
