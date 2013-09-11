@@ -14,6 +14,9 @@ A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Va
  * [Ubuntu Raring 32 Vanilla (13.04)](http://goo.gl/y79mW)
  * [Ubuntu Raring 64 Vanilla (13.04)](http://goo.gl/ceHWg)
 
+Now also available at Baidu Drive, in case my Dropbox account exceeds its download bandwidth limits
+ * [http://pan.baidu.com/share/link?shareid=455850040&uk=2151416522#dir/path=%2Fboxes](http://pan.baidu.com/share/link?shareid=455850040&uk=2151416522#dir/path=%2Fboxes)
+
 ## Before started
 
  1. Install [VirtualBox](https://www.virtualbox.org/)
