@@ -1,9 +1,13 @@
 vanilla-boxes
 ===
 
-A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Vagrant](http://www.vagrantup.com) **vanilla*** base boxes.
+A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Vagrant](http://www.vagrantup.com) **vanilla** base boxes.
 
-*\*vanilla - no ruby, gem, chef, puppet.*
+*vanilla* - no ruby, gem, chef, puppet.*
+
+## Alternative
+
+Have you tried Opscode's latest bento boxes? https://github.com/opscode/bento/
 
 ## Downloads
 
